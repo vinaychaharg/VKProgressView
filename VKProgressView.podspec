@@ -28,7 +28,7 @@ TODO: VKProgressView helps you show the progress of any download or any other op
   s.source           = { :git => 'https://github.com/vinaychaharg/VKProgressView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '8.0'
 
   s.source_files = 'VKProgressView/Classes/**/*'
   
